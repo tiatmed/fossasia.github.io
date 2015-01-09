@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/fossasia/fossasia.github.io.svg?branch=master)](https://travis-ci.org/fossasia/fossasia.github.io)
+
 # Fossasia's site for Google Code-in
 
 GCI (Google Code-In) is annual contest sponsored by Google, which directed for students of middle and secondary schools. 
